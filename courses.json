@@ -1,0 +1,34 @@
+{
+    "CS101": {
+        "name": "Introduction to Programming",
+        "sections": [
+            {
+                "section_id": "CS101-A",
+                "teacher": "T01",
+                "capacity": 30,
+                "students": []
+            },
+            {
+                "section_id": "CS101-B",
+                "teacher": "T02",
+                "capacity": 3,
+                "students": [
+                    "S001",
+                    "S002",
+                    "S003"
+                ]
+            }
+        ]
+    },
+    "MA202": {
+        "name": "Calculus II",
+        "sections": [
+            {
+                "section_id": "MA202-A",
+                "teacher": "T03",
+                "capacity": 25,
+                "students": []
+            }
+        ]
+    }
+}

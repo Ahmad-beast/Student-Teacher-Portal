@@ -1,0 +1,110 @@
+{
+    "student1": {
+        "password": "pass1",
+        "student_id": "S001",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student2": {
+        "password": "pass2",
+        "student_id": "S002",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student3": {
+        "password": "pass3",
+        "student_id": "S003",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student4": {
+        "password": "pass4",
+        "student_id": "S004",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student5": {
+        "password": "pass5",
+        "student_id": "S005",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student6": {
+        "password": "pass6",
+        "student_id": "S006",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student7": {
+        "password": "pass7",
+        "student_id": "S007",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student8": {
+        "password": "pass8",
+        "student_id": "S008",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student9": {
+        "password": "pass9",
+        "student_id": "S009",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student10": {
+        "password": "pass10",
+        "student_id": "S0010",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student11": {
+        "password": "pass11",
+        "student_id": "S0011",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    },
+    "student12": {
+        "password": "pass12",
+        "student_id": "S0012",
+        "enrolled_courses": [],
+        "academic_records": {
+            "Semester 1": 3.5,
+            "Semester 2": 3.7
+        }
+    }
+}

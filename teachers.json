@@ -1,0 +1,102 @@
+{
+    "teacher1": {
+        "password": "tpass1",
+        "teacher_id": "T01",
+        "personal_info": {
+            "name": "Teacher Name 1",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7801"
+        },
+        "salary": 61000
+    },
+    "teacher2": {
+        "password": "tpass2",
+        "teacher_id": "T02",
+        "personal_info": {
+            "name": "Teacher Name 2",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7802"
+        },
+        "salary": 62000
+    },
+    "teacher3": {
+        "password": "tpass3",
+        "teacher_id": "T03",
+        "personal_info": {
+            "name": "Teacher Name 3",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7803"
+        },
+        "salary": 63000
+    },
+    "teacher4": {
+        "password": "tpass4",
+        "teacher_id": "T04",
+        "personal_info": {
+            "name": "Teacher Name 4",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7804"
+        },
+        "salary": 64000
+    },
+    "teacher5": {
+        "password": "tpass5",
+        "teacher_id": "T05",
+        "personal_info": {
+            "name": "Teacher Name 5",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7805"
+        },
+        "salary": 65000
+    },
+    "teacher6": {
+        "password": "tpass6",
+        "teacher_id": "T06",
+        "personal_info": {
+            "name": "Teacher Name 6",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7806"
+        },
+        "salary": 66000
+    },
+    "teacher7": {
+        "password": "tpass7",
+        "teacher_id": "T07",
+        "personal_info": {
+            "name": "Teacher Name 7",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7807"
+        },
+        "salary": 67000
+    },
+    "teacher8": {
+        "password": "tpass8",
+        "teacher_id": "T08",
+        "personal_info": {
+            "name": "Teacher Name 8",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7808"
+        },
+        "salary": 68000
+    },
+    "teacher9": {
+        "password": "tpass9",
+        "teacher_id": "T09",
+        "personal_info": {
+            "name": "Teacher Name 9",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7809"
+        },
+        "salary": 69000
+    },
+    "teacher10": {
+        "password": "tpass10",
+        "teacher_id": "T010",
+        "personal_info": {
+            "name": "Teacher Name 10",
+            "qualification": "PhD in Computer Science",
+            "contact": "123-456-7810"
+        },
+        "salary": 70000
+    }
+}
