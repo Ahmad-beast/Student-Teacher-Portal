@@ -53,8 +53,8 @@ The system uses **file handling** to persist data and demonstrates core OOP prin
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Ahmad-beast/Student-Teacher-Portal
+cd Student-Teacher-Portal
 ```
 ---
 ### 2️⃣ Install Dependencies
