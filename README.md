@@ -53,7 +53,7 @@ The system uses **file handling** to persist data and demonstrates core OOP prin
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Ahmad-beast/Student-Teacher-Portal
+git clone https://github.com/Ahmad-beast/Student-Teacher-Portal.git
 cd Student-Teacher-Portal
 ```
 ---
